@@ -26,6 +26,7 @@ bin/wheel
 bin/wheel-3.10
 bin/wheel3
 bin/wheel3.10
+pyvenv.cfg
 PY - Project1/Project 1 (copy).ipynb
 PY10 - Pandas/P9.ipynb
 PY10 - Pandas/PY.7.ipynb
