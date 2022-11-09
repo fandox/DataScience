@@ -5,6 +5,7 @@
 .idea/modules.xml
 .idea/vcs.xml
 .idea/inspectionProfiles/profiles_settings.xml
+pyvenv.cfd
 bin/activate
 bin/activate_this.py
 bin/activate.csh
