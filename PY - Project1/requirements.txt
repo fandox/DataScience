@@ -5,3 +5,4 @@ MarkupSafe @ file:///buildstream/freedesktop-sdk/components/python3-markupsafe.b
 meson==0.63.3
 Pygments @ file:///buildstream/freedesktop-sdk/components/python3-pygments.bst
 six @ file:///buildstream/freedesktop-sdk/components/python3-six.bst
+
