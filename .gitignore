@@ -1,11 +1,10 @@
-PY10 - Pandas
-PY11 - Pandas
-PY12 - Pandas
-PY14 - DataCleaning
-PY13 - Visualisation
+PY
+EDA
+SQL
+Regexp
 venv
 .idea
-PY - Project1/data
-PY16/data
+Projects/Project1/data
+PY/PY16/data
 temp
-SQL
+Project3
