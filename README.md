@@ -6,5 +6,6 @@
 Каждое задание содержит свой readme.
 
 ## Оглавление  
-- [Project 1](https://github.com/fandox/DataScience/blob/master/PY%20-%20Project1/README.MD) 
-- [Project 2](link)
+- [Project 1](https://github.com/fandox/DataScience/tree/master/Projects/Project1) 
+- [Project 2](https://github.com/fandox/DataScience/tree/master/Projects/Project2)
+- [Project 3](https://github.com/fandox/DataScience/tree/master/Projects/Project3)
